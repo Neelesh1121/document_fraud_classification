@@ -85,14 +85,9 @@ Here are some proposed improvements to enhance the fraud detection system:
 ### 2. Cross-Document Information Validation  
 - Compare extracted key fields (name, DOB, ID number) across multiple submitted documents (e.g., Aadhar vs PAN) to catch inconsistencies.
 
-### 3. Real-Time API & Dashboard  
-- Develop a REST API with a front-end dashboard for users to upload and evaluate documents in real-time.
-
-### 4. Localized Text & Language Support  
+### 3. Localized Text & Language Support  
 - Expand OCR capabilities to support Indian regional languages (e.g., Hindi, Marathi, Tamil) for broader coverage.
 
-### 5. Advanced Tampering Localization  
-- Integrate deep learning-based segmentation models (like U-Net or Mask R-CNN) to highlight tampered regions pixel-wise for forensics.
 
 ---
 
@@ -100,8 +95,8 @@ Here are some proposed improvements to enhance the fraud detection system:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fraud-doc-detection.git
-    cd fraud-doc-detection
+    git clone https://github.com/Neelesh1121/document_fraud_classification.git
+    cd document_fraud_classification
     ```
 
 2. Install dependencies:
@@ -126,16 +121,8 @@ This project is intended for research and internal evaluation purposes. For comm
 
 ---
 
-## Contributors
-
-- [Your Name]
-- [Collaborator 1]
-- [Collaborator 2]
-
----
-
 ## Contact
 
-For issues, improvements, or collaboration, please reach out via GitHub Issues or email: [your_email@example.com]
+For issues, improvements, or collaboration, please reach out via GitHub Issues or email: [neelesh932@gmail.com]
 
 
