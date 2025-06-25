@@ -1,0 +1,11 @@
+numpy
+Pillow
+scikit-learn
+sentence-transformers
+torch
+torchvision
+opencv-python
+easyocr
+google-generativeai
+tensorflow==2.12.0
+keras
